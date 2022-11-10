@@ -42,6 +42,6 @@ HR Data Analytics portfolio project that deals with HR KPIs like Performance tra
 ![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/4.%20HR%20Analytics%20Project%20Attrition.png)
 
 
-###### Note: The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.
+####### Note: The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.
 
 
